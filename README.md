@@ -12,6 +12,10 @@ Creates svg logos using Nodejs
 
 - [Demonstration](#demonstration)
 
+- [Credits](#credits)
+
+- [License](#license)
+
 - [Questions](#questions)
 
 ## Description 
@@ -50,6 +54,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 https://github.com/ZeDevGit/SVG-Logo-maker/assets/42353819/0b524843-369e-4bc0-ac72-5db68a9c77f5
 
+
+
+## Credits
+- Edward Lawrence
 
 ## License
  ![Empty Badge](https://img.shields.io/badge/MIT-License-blue)
