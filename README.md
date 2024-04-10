@@ -47,6 +47,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 - SVG logo is created and stored in /svgs/ right after running node index.js
 ## Demonstration
 
+
+https://github.com/ZeDevGit/SVG-Logo-maker/assets/42353819/0b524843-369e-4bc0-ac72-5db68a9c77f5
+
+
 ## License
  ![Empty Badge](https://img.shields.io/badge/MIT-License-blue)
 ## Questions
